@@ -1,4 +1,4 @@
-# Transit Mind
+# Transit_Mind
 Predicts and visualizes real-time MBTA transit delays using a full-stack application built with React, Flask, and LightGBM.
 The system integrates weather, route, and alert data to estimate realistic delay times and displays them interactively on a live map dashboard.
 
